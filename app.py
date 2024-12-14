@@ -154,7 +154,3 @@ async def main(message):
         await cb.final_stream.update()
     else:
         await cl.Message(content=answer,elements=source_elements).send()
-
-
-
-
