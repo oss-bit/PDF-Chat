@@ -44,7 +44,7 @@ This project is a PDF chatbot application powered by **Chainlit**, **LangChain**
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/chat-with-pdfs.git
+   git clone https://github.com/oss-bit/PDF-Chat.git
    cd chat-with-pdfs
    ```
 
